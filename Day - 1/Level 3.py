@@ -22,3 +22,9 @@ q2 = 8
 d = math.sqrt(((p1 - q1)**2) + ((p2 - q2)**2))
 
 print(d)
+d_int = int(d)
+print(d_int)
+d_string = str(d)
+print(d_string)
+d_list = list(d_string)
+print(d_list)
