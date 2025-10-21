@@ -1,0 +1,6 @@
+print("jargon" in "I hope this course is not full of jargon")
+print(not("on" in "dragon" and "python"))
+x = len("python")
+print(x)
+print(float(x))
+print(str(x))
